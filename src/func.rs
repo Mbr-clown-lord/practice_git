@@ -1,5 +1,5 @@
 ﻿pub fn hello() {
-    println!("Hello Rust");
+    println!("Hello world");
 }
 
 pub fn add(){
@@ -10,3 +10,4 @@ pub fn div(){
     println!("Result = {}",500);
 
 }
+
