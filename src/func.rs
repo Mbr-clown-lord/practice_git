@@ -14,3 +14,7 @@ pub fn div(){
 pub fn sub(){
     println!("Result = {}",800);
 }
+
+pub fn test(){
+    println!("Test Conflict");
+}
