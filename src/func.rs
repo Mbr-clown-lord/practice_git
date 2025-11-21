@@ -1,5 +1,5 @@
 ﻿pub fn hello() {
-    println!("Hello Rust");
+    println!("Hello Python");
 }
 
 pub fn add(){
