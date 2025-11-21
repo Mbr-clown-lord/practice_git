@@ -18,3 +18,7 @@ pub fn sub(){
 pub fn test(){
     println!("Test Conflict");
 }
+
+pub fn resolve(){
+    println!("Resolve conflict"};
+}
