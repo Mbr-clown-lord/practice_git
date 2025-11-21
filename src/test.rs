@@ -1,3 +1,3 @@
 pub fn test(){
-    println!("Test");
+    println!("Test new branch");
 }
