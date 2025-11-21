@@ -11,3 +11,6 @@ pub fn div(){
 
 }
 
+pub fn sub(){
+    println!("Result = {}",800);
+}
