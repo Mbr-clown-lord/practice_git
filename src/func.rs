@@ -10,3 +10,4 @@ pub fn div(){
     println!("Result = {}",500);
 
 }
+
