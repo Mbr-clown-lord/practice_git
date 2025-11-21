@@ -19,3 +19,6 @@ pub fn test(){
     println!("Conflict");
 }
 
+pub fn resolve(){
+    println!("Resolve conflict");
+}
