@@ -1,3 +1,5 @@
+use practice_git::func;
+
 fn main() {
-    println!("Hello, world!");
+    func::hello();
 }
