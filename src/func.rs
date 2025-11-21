@@ -1,5 +1,5 @@
 pub fn hello() {
-    println!("Hello C++");
+    println!("Hello Java");
 }
 
 pub fn add(){
