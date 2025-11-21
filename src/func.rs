@@ -7,6 +7,6 @@ pub fn add(){
 }
 
 pub fn div(){
-    println!("Result = {}",20);
+    println!("Result = {}",500);
 
 }
