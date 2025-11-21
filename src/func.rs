@@ -1,5 +1,5 @@
 ﻿pub fn hello() {
-    println!("Hello Python");
+    println!("Hello C++");
 }
 
 pub fn add(){
@@ -10,4 +10,5 @@ pub fn div(){
     println!("Result = {}",500);
 
 }
+
 
