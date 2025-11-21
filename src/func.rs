@@ -1,5 +1,5 @@
 ﻿pub fn hello() {
-    println!("Hello Python");
+    println!("Hello C++");
 }
 
 pub fn add(){
@@ -11,6 +11,10 @@ pub fn div(){
 
 }
 
+<<<<<<< HEAD
 pub fn sub(){
     println!("Result = {}",800);
 }
+=======
+
+>>>>>>> 5852e6bcd7996a658e7660fb34ffdbd4df636015
