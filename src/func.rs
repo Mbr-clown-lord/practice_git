@@ -16,5 +16,6 @@ pub fn sub(){
 }
 
 pub fn test(){
-    println!("Test Conflict");
+    println!("Conflict");
 }
+
